@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+yfinance
+requests
+sqlalchemy
+psycopg2-binary
+plotly
+feedparser
+vaderSentiment
+river
